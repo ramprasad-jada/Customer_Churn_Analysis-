@@ -1,0 +1,9 @@
+feature,importance_mean,importance_std
+plan_name,0.0473,0.0215
+monthly_fee,0.0356,0.0141
+failed_payment_rate,0.0292,0.0423
+unresolved_tickets,0.0089,0.0053
+gender,0.0052,0.013
+total_tickets,-0.0063,0.0401
+age,-0.0069,0.0137
+city,-0.0075,0.0222
