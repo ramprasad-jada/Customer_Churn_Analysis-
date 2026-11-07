@@ -1,0 +1,72 @@
+{
+  "best_model": "logistic_regression",
+  "n_train": 240,
+  "n_test": 60,
+  "features": [
+    "age",
+    "monthly_fee",
+    "failed_payment_rate",
+    "total_tickets",
+    "unresolved_tickets",
+    "gender",
+    "city",
+    "plan_name"
+  ],
+  "results": {
+    "baseline_majority": {
+      "cv_roc_auc_mean": 0.5,
+      "cv_roc_auc_std": 0.0,
+      "test_roc_auc": 0.5,
+      "test_precision": 0.0,
+      "test_recall": 0.0,
+      "test_f1": 0.0,
+      "confusion_matrix [[TN, FP], [FN, TP]]": [
+        [
+          40,
+          0
+        ],
+        [
+          20,
+          0
+        ]
+      ]
+    },
+    "logistic_regression": {
+      "cv_roc_auc_mean": 0.699,
+      "cv_roc_auc_std": 0.046,
+      "test_roc_auc": 0.577,
+      "test_precision": 0.35,
+      "test_recall": 0.35,
+      "test_f1": 0.35,
+      "confusion_matrix [[TN, FP], [FN, TP]]": [
+        [
+          27,
+          13
+        ],
+        [
+          13,
+          7
+        ]
+      ]
+    },
+    "random_forest": {
+      "cv_roc_auc_mean": 0.687,
+      "cv_roc_auc_std": 0.067,
+      "test_roc_auc": 0.619,
+      "test_precision": 0.44,
+      "test_recall": 0.55,
+      "test_f1": 0.489,
+      "confusion_matrix [[TN, FP], [FN, TP]]": [
+        [
+          26,
+          14
+        ],
+        [
+          9,
+          11
+        ]
+      ]
+    }
+  },
+  "note": "Trained on synthetic data when using the bundled CSVs; metrics show the pipeline works, not real-world accuracy."
+}
