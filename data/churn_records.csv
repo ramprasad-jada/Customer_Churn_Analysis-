@@ -1,0 +1,127 @@
+churn_id,customer_id,churn_status,churn_date,churn_reason
+1,1,Churned,2026-09-04,Poor service quality
+2,3,Churned,2026-07-17,High price
+3,6,At Risk,,Billing issues
+4,7,Churned,2026-06-20,Billing issues
+5,8,At Risk,,Billing issues
+6,10,Churned,2025-12-20,Poor service quality
+7,12,Churned,2025-11-30,High price
+8,13,At Risk,,Billing issues
+9,18,Churned,2026-09-27,Poor service quality
+10,22,Churned,2026-10-15,Poor service quality
+11,23,Churned,2025-04-30,Billing issues
+12,25,Churned,2026-08-24,Poor service quality
+13,26,Churned,2024-10-09,Moved to competitor
+14,29,Churned,2026-06-22,Poor service quality
+15,33,At Risk,,High price
+16,38,Churned,2026-06-27,No longer needed
+17,39,Churned,2026-07-12,Poor service quality
+18,41,Churned,2026-08-20,High price
+19,46,Churned,2026-05-23,High price
+20,47,Churned,2026-07-16,Moved to competitor
+21,49,Churned,2026-02-20,Moved to competitor
+22,51,Churned,2026-01-24,High price
+23,54,Churned,2026-03-19,Poor service quality
+24,60,Churned,2026-10-07,No longer needed
+25,64,Churned,2026-04-15,Billing issues
+26,69,Churned,2026-02-24,Billing issues
+27,70,At Risk,,Billing issues
+28,71,Churned,2024-11-15,No longer needed
+29,73,Churned,2026-04-20,High price
+30,74,Churned,2026-08-27,Poor service quality
+31,75,At Risk,,Poor service quality
+32,79,Churned,2026-09-19,Billing issues
+33,83,At Risk,,Billing issues
+34,88,Churned,2026-10-14,Poor service quality
+35,93,Churned,2026-01-03,Moved to competitor
+36,96,Churned,2025-07-09,High price
+37,97,At Risk,,Poor service quality
+38,98,Churned,2025-10-11,No longer needed
+39,100,Churned,2026-05-17,Moved to competitor
+40,101,Churned,2026-08-25,Poor service quality
+41,104,Churned,2026-07-11,No longer needed
+42,105,Churned,2026-02-18,No longer needed
+43,108,Churned,2025-08-28,High price
+44,110,Churned,2026-09-19,Poor service quality
+45,113,Churned,2026-04-08,Moved to competitor
+46,114,Churned,2025-10-25,Poor service quality
+47,116,Churned,2026-10-08,High price
+48,117,At Risk,,High price
+49,119,At Risk,,Billing issues
+50,122,Churned,2026-09-15,High price
+51,124,At Risk,,High price
+52,125,Churned,2026-10-21,Poor service quality
+53,126,At Risk,,Billing issues
+54,127,At Risk,,High price
+55,128,Churned,2026-10-17,Moved to competitor
+56,129,Churned,2026-04-13,Moved to competitor
+57,130,Churned,2026-08-19,Poor service quality
+58,132,Churned,2026-09-05,Poor service quality
+59,136,Churned,2026-02-10,Billing issues
+60,138,At Risk,,Poor service quality
+61,141,Churned,2026-08-23,Moved to competitor
+62,143,Churned,2026-10-22,High price
+63,144,Churned,2025-03-01,Poor service quality
+64,146,Churned,2026-11-03,Moved to competitor
+65,148,Churned,2025-11-04,Moved to competitor
+66,154,Churned,2026-09-08,Moved to competitor
+67,155,At Risk,,Poor service quality
+68,156,Churned,2025-07-30,No longer needed
+69,157,Churned,2026-06-20,Poor service quality
+70,160,Churned,2025-05-07,High price
+71,163,Churned,2026-03-18,Billing issues
+72,165,At Risk,,Billing issues
+73,170,Churned,2025-07-26,Moved to competitor
+74,171,Churned,2026-06-29,Poor service quality
+75,172,Churned,2026-04-16,Moved to competitor
+76,175,Churned,2026-03-11,High price
+77,177,At Risk,,Poor service quality
+78,179,At Risk,,Poor service quality
+79,186,Churned,2026-10-17,Moved to competitor
+80,187,Churned,2026-07-27,Moved to competitor
+81,188,Churned,2024-10-14,Poor service quality
+82,189,Churned,2026-06-15,Billing issues
+83,190,Churned,2025-12-26,Billing issues
+84,191,Churned,2026-01-29,Poor service quality
+85,198,Churned,2026-02-10,Moved to competitor
+86,199,Churned,2025-12-07,Poor service quality
+87,202,Churned,2026-07-11,No longer needed
+88,208,Churned,2025-06-26,No longer needed
+89,209,Churned,2026-07-25,No longer needed
+90,210,Churned,2026-04-26,Moved to competitor
+91,212,Churned,2025-12-27,No longer needed
+92,213,Churned,2026-06-05,Billing issues
+93,217,At Risk,,Billing issues
+94,219,At Risk,,Poor service quality
+95,224,Churned,2025-03-04,High price
+96,227,Churned,2026-04-24,High price
+97,228,Churned,2026-01-01,Poor service quality
+98,229,At Risk,,Poor service quality
+99,231,Churned,2026-08-10,Poor service quality
+100,232,Churned,2026-09-19,Billing issues
+101,242,Churned,2024-07-08,Billing issues
+102,243,Churned,2024-11-24,Moved to competitor
+103,251,Churned,2025-09-19,Poor service quality
+104,253,Churned,2026-01-15,Poor service quality
+105,254,Churned,2024-05-18,Billing issues
+106,255,At Risk,,Billing issues
+107,264,Churned,2025-07-24,Billing issues
+108,265,Churned,2025-05-24,No longer needed
+109,268,Churned,2026-06-24,Poor service quality
+110,270,At Risk,,Poor service quality
+111,271,Churned,2026-07-18,Moved to competitor
+112,272,At Risk,,Poor service quality
+113,273,Churned,2026-03-03,No longer needed
+114,274,Churned,2025-12-31,Moved to competitor
+115,275,At Risk,,Poor service quality
+116,279,Churned,2025-12-30,Billing issues
+117,280,Churned,2025-11-14,Moved to competitor
+118,282,At Risk,,High price
+119,284,Churned,2026-10-16,Poor service quality
+120,285,Churned,2026-03-21,High price
+121,289,Churned,2025-07-25,Poor service quality
+122,292,Churned,2026-10-24,Poor service quality
+123,295,Churned,2026-10-18,No longer needed
+124,296,At Risk,,High price
+125,297,Churned,2026-08-16,High price
+126,300,Churned,2024-10-01,Billing issues

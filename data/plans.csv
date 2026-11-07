@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_fee
+1,Basic,299.0
+2,Standard,499.0
+3,Premium,799.0
+4,Family,1099.0

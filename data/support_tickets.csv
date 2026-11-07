@@ -1,0 +1,321 @@
+ticket_id,customer_id,issue_category,resolution_status,ticket_date
+1,1,Plan Change,Resolved,2026-04-03
+2,2,Technical,Resolved,2026-08-27
+3,3,Network,Resolved,2026-04-26
+4,4,Billing,Resolved,2026-07-25
+5,6,Billing,Pending,2024-03-26
+6,7,Billing,Open,2025-06-20
+7,7,Plan Change,Resolved,2024-09-24
+8,8,Billing,Pending,2026-08-16
+9,8,Network,Pending,2026-06-09
+10,9,Billing,Resolved,2026-09-16
+11,11,Service Quality,Resolved,2025-10-19
+12,12,Service Quality,Pending,2025-04-14
+13,12,Network,Resolved,2024-12-25
+14,13,Technical,Open,2026-07-03
+15,13,Plan Change,Resolved,2026-07-18
+16,13,Plan Change,Resolved,2026-08-10
+17,13,Billing,Resolved,2026-09-15
+18,14,Network,Open,2024-10-23
+19,15,Billing,Resolved,2024-06-26
+20,15,Plan Change,Resolved,2025-11-02
+21,18,Service Quality,Escalated,2026-08-26
+22,19,Plan Change,Pending,2026-02-13
+23,21,Technical,Resolved,2026-01-11
+24,22,Plan Change,Resolved,2026-08-14
+25,23,Network,Resolved,2024-10-18
+26,23,Billing,Resolved,2024-05-13
+27,23,Plan Change,Resolved,2025-04-17
+28,23,Service Quality,Resolved,2024-06-23
+29,25,Network,Open,2026-06-02
+30,25,Service Quality,Open,2026-04-25
+31,25,Billing,Resolved,2026-05-19
+32,26,Billing,Open,2024-07-30
+33,26,Service Quality,Escalated,2024-09-07
+34,26,Service Quality,Resolved,2024-07-10
+35,29,Network,Escalated,2026-06-13
+36,29,Technical,Resolved,2026-06-13
+37,32,Billing,Resolved,2026-08-28
+38,33,Billing,Resolved,2026-04-30
+39,33,Billing,Resolved,2026-09-28
+40,35,Network,Resolved,2025-07-28
+41,36,Plan Change,Resolved,2025-12-20
+42,38,Billing,Resolved,2026-03-06
+43,38,Network,Resolved,2026-02-16
+44,39,Network,Resolved,2026-01-25
+45,40,Plan Change,Resolved,2026-06-22
+46,40,Network,Resolved,2026-06-20
+47,41,Billing,Resolved,2026-06-25
+48,42,Technical,Resolved,2026-07-20
+49,42,Service Quality,Resolved,2026-01-21
+50,43,Technical,Resolved,2026-08-21
+51,43,Service Quality,Resolved,2026-05-26
+52,44,Service Quality,Resolved,2026-05-14
+53,47,Plan Change,Escalated,2026-03-03
+54,48,Technical,Resolved,2026-09-04
+55,48,Network,Resolved,2025-10-09
+56,50,Billing,Escalated,2025-09-11
+57,50,Technical,Resolved,2025-10-23
+58,51,Network,Pending,2025-12-07
+59,51,Plan Change,Resolved,2026-01-16
+60,53,Plan Change,Resolved,2026-07-08
+61,54,Service Quality,Open,2026-02-02
+62,56,Technical,Escalated,2025-07-10
+63,56,Technical,Pending,2026-10-10
+64,57,Plan Change,Open,2026-07-28
+65,58,Plan Change,Resolved,2026-06-15
+66,59,Plan Change,Resolved,2025-02-17
+67,60,Network,Pending,2026-09-04
+68,60,Technical,Resolved,2026-08-06
+69,60,Billing,Resolved,2026-07-22
+70,62,Network,Resolved,2026-03-17
+71,63,Plan Change,Resolved,2024-04-26
+72,64,Plan Change,Pending,2025-12-01
+73,64,Network,Resolved,2025-11-14
+74,69,Billing,Resolved,2025-05-20
+75,69,Network,Resolved,2025-12-17
+76,70,Technical,Open,2026-03-31
+77,70,Plan Change,Resolved,2025-09-01
+78,71,Plan Change,Open,2024-09-11
+79,71,Network,Resolved,2024-10-01
+80,71,Plan Change,Resolved,2024-08-21
+81,73,Network,Pending,2026-02-25
+82,75,Service Quality,Pending,2025-08-16
+83,75,Network,Escalated,2026-07-03
+84,76,Network,Resolved,2026-01-10
+85,79,Plan Change,Pending,2025-12-27
+86,81,Plan Change,Resolved,2025-04-02
+87,82,Network,Pending,2025-03-09
+88,82,Plan Change,Resolved,2024-09-27
+89,84,Service Quality,Pending,2026-06-01
+90,85,Technical,Resolved,2026-05-16
+91,86,Service Quality,Resolved,2024-07-23
+92,86,Network,Resolved,2025-06-10
+93,88,Plan Change,Resolved,2026-02-08
+94,88,Technical,Resolved,2026-01-11
+95,92,Network,Resolved,2026-06-04
+96,93,Plan Change,Open,2024-07-26
+97,93,Billing,Escalated,2025-07-24
+98,94,Service Quality,Resolved,2026-05-10
+99,95,Technical,Resolved,2025-07-01
+100,96,Billing,Resolved,2025-01-16
+101,97,Technical,Escalated,2025-09-17
+102,98,Network,Resolved,2025-08-10
+103,99,Network,Open,2026-01-19
+104,99,Technical,Resolved,2026-01-21
+105,100,Service Quality,Escalated,2025-06-10
+106,100,Billing,Escalated,2025-06-12
+107,100,Plan Change,Resolved,2025-04-07
+108,100,Billing,Resolved,2026-02-13
+109,100,Plan Change,Resolved,2025-11-04
+110,101,Network,Resolved,2026-07-31
+111,103,Network,Resolved,2023-11-19
+112,104,Network,Resolved,2024-10-28
+113,107,Service Quality,Escalated,2026-01-01
+114,108,Billing,Resolved,2024-07-14
+115,109,Service Quality,Resolved,2024-11-09
+116,110,Plan Change,Pending,2026-07-11
+117,110,Plan Change,Resolved,2026-04-04
+118,112,Service Quality,Pending,2025-07-24
+119,112,Plan Change,Resolved,2026-01-15
+120,113,Technical,Escalated,2025-12-23
+121,114,Service Quality,Resolved,2025-04-04
+122,115,Billing,Resolved,2024-12-11
+123,117,Network,Escalated,2025-11-24
+124,118,Service Quality,Resolved,2026-10-10
+125,119,Technical,Escalated,2024-11-18
+126,119,Billing,Escalated,2026-01-01
+127,119,Plan Change,Resolved,2026-02-24
+128,120,Network,Resolved,2025-09-08
+129,120,Network,Resolved,2026-04-23
+130,124,Technical,Resolved,2024-07-30
+131,125,Technical,Resolved,2026-06-22
+132,126,Plan Change,Resolved,2025-03-27
+133,126,Technical,Resolved,2025-05-13
+134,127,Technical,Pending,2026-07-10
+135,127,Technical,Resolved,2026-08-23
+136,128,Plan Change,Resolved,2026-08-24
+137,128,Plan Change,Resolved,2026-08-18
+138,128,Network,Resolved,2026-09-13
+139,129,Service Quality,Escalated,2024-07-03
+140,129,Network,Resolved,2025-08-19
+141,130,Technical,Open,2026-07-26
+142,132,Plan Change,Open,2026-08-13
+143,133,Plan Change,Resolved,2026-10-08
+144,134,Billing,Resolved,2025-06-10
+145,134,Service Quality,Resolved,2025-02-20
+146,134,Network,Resolved,2026-09-08
+147,136,Service Quality,Open,2025-10-20
+148,136,Billing,Resolved,2025-11-11
+149,136,Billing,Resolved,2025-11-22
+150,136,Billing,Resolved,2025-07-29
+151,137,Technical,Open,2025-09-29
+152,138,Plan Change,Pending,2026-10-15
+153,139,Plan Change,Escalated,2026-09-19
+154,139,Technical,Resolved,2026-08-29
+155,140,Technical,Resolved,2025-06-02
+156,141,Billing,Resolved,2026-06-18
+157,143,Technical,Pending,2026-07-07
+158,143,Service Quality,Resolved,2026-06-02
+159,144,Network,Pending,2024-07-11
+160,144,Service Quality,Open,2024-11-21
+161,144,Plan Change,Resolved,2025-02-03
+162,144,Plan Change,Resolved,2024-12-24
+163,145,Technical,Resolved,2026-06-01
+164,147,Technical,Resolved,2025-10-29
+165,148,Billing,Resolved,2025-10-28
+166,149,Network,Resolved,2025-09-19
+167,149,Billing,Resolved,2026-06-18
+168,151,Plan Change,Resolved,2025-11-25
+169,154,Plan Change,Resolved,2026-07-09
+170,154,Technical,Resolved,2025-12-12
+171,155,Billing,Open,2026-04-03
+172,157,Service Quality,Resolved,2026-04-21
+173,164,Plan Change,Resolved,2026-02-16
+174,164,Service Quality,Resolved,2026-07-28
+175,165,Plan Change,Resolved,2026-08-08
+176,165,Technical,Resolved,2026-08-19
+177,165,Network,Resolved,2026-07-03
+178,168,Technical,Resolved,2026-04-11
+179,171,Billing,Escalated,2026-05-07
+180,171,Plan Change,Resolved,2026-06-28
+181,171,Plan Change,Resolved,2026-06-05
+182,172,Network,Resolved,2026-02-15
+183,174,Plan Change,Resolved,2024-09-10
+184,174,Billing,Resolved,2026-07-24
+185,175,Service Quality,Pending,2026-01-15
+186,175,Plan Change,Resolved,2025-04-13
+187,176,Plan Change,Resolved,2025-10-25
+188,177,Plan Change,Escalated,2025-06-14
+189,177,Technical,Pending,2026-09-18
+190,178,Billing,Escalated,2026-03-31
+191,179,Technical,Escalated,2026-10-23
+192,179,Network,Resolved,2026-03-27
+193,180,Billing,Escalated,2026-08-30
+194,180,Network,Resolved,2026-07-13
+195,181,Plan Change,Resolved,2026-01-24
+196,182,Technical,Resolved,2026-06-09
+197,186,Service Quality,Resolved,2025-12-28
+198,187,Service Quality,Resolved,2026-06-21
+199,189,Plan Change,Resolved,2026-01-07
+200,189,Technical,Resolved,2025-05-21
+201,190,Technical,Open,2025-09-07
+202,190,Billing,Resolved,2024-06-06
+203,190,Technical,Resolved,2024-09-03
+204,190,Service Quality,Resolved,2025-09-16
+205,191,Technical,Resolved,2025-11-30
+206,193,Network,Resolved,2025-01-14
+207,196,Technical,Resolved,2026-03-24
+208,197,Plan Change,Pending,2026-08-11
+209,198,Network,Resolved,2024-12-17
+210,199,Plan Change,Resolved,2025-07-08
+211,200,Plan Change,Open,2026-09-27
+212,202,Technical,Open,2026-05-14
+213,202,Service Quality,Pending,2026-06-07
+214,203,Plan Change,Resolved,2026-02-24
+215,207,Plan Change,Resolved,2026-07-18
+216,208,Network,Pending,2025-03-28
+217,208,Service Quality,Resolved,2024-10-24
+218,208,Network,Resolved,2025-06-01
+219,208,Service Quality,Resolved,2025-04-25
+220,210,Plan Change,Resolved,2026-03-05
+221,210,Service Quality,Resolved,2026-03-25
+222,213,Network,Resolved,2025-06-18
+223,214,Service Quality,Resolved,2024-06-20
+224,215,Billing,Resolved,2026-11-05
+225,215,Service Quality,Resolved,2026-07-28
+226,216,Billing,Pending,2026-08-28
+227,216,Service Quality,Resolved,2025-07-27
+228,217,Billing,Escalated,2026-03-07
+229,217,Technical,Resolved,2026-04-15
+230,218,Plan Change,Resolved,2024-12-03
+231,218,Billing,Resolved,2024-07-10
+232,221,Network,Escalated,2026-09-25
+233,223,Service Quality,Resolved,2026-06-14
+234,224,Technical,Escalated,2024-10-23
+235,224,Network,Escalated,2024-12-11
+236,224,Service Quality,Resolved,2024-11-20
+237,226,Technical,Resolved,2026-06-14
+238,227,Plan Change,Resolved,2025-12-27
+239,227,Plan Change,Resolved,2026-03-21
+240,227,Plan Change,Resolved,2026-01-30
+241,229,Billing,Open,2025-08-19
+242,229,Service Quality,Resolved,2026-01-15
+243,230,Network,Open,2026-10-29
+244,230,Technical,Resolved,2026-06-26
+245,231,Service Quality,Resolved,2026-02-03
+246,232,Service Quality,Open,2026-07-28
+247,233,Plan Change,Resolved,2025-08-08
+248,235,Technical,Resolved,2026-06-03
+249,237,Plan Change,Escalated,2026-02-01
+250,237,Technical,Resolved,2026-03-17
+251,239,Network,Open,2026-05-08
+252,240,Technical,Resolved,2025-04-04
+253,240,Technical,Resolved,2024-05-12
+254,242,Technical,Pending,2024-03-02
+255,242,Network,Resolved,2024-02-14
+256,243,Billing,Resolved,2024-07-31
+257,246,Plan Change,Resolved,2026-08-15
+258,246,Service Quality,Resolved,2026-01-26
+259,247,Network,Resolved,2026-04-19
+260,247,Technical,Resolved,2026-01-06
+261,247,Network,Resolved,2026-08-25
+262,248,Billing,Resolved,2025-05-27
+263,253,Plan Change,Resolved,2025-12-02
+264,254,Technical,Escalated,2024-05-01
+265,255,Network,Open,2026-10-13
+266,258,Billing,Resolved,2026-04-28
+267,259,Billing,Pending,2026-08-11
+268,259,Network,Resolved,2026-10-18
+269,261,Technical,Resolved,2025-12-21
+270,262,Billing,Resolved,2026-06-10
+271,264,Network,Open,2024-10-23
+272,264,Network,Resolved,2025-04-11
+273,267,Billing,Resolved,2025-06-25
+274,268,Network,Resolved,2026-05-24
+275,269,Plan Change,Open,2026-03-04
+276,270,Service Quality,Resolved,2026-10-17
+277,270,Technical,Resolved,2026-02-09
+278,271,Billing,Open,2026-07-06
+279,271,Plan Change,Resolved,2026-07-13
+280,271,Network,Resolved,2025-11-17
+281,272,Network,Pending,2026-08-24
+282,272,Billing,Resolved,2026-06-01
+283,273,Network,Resolved,2025-06-04
+284,275,Billing,Open,2025-06-05
+285,275,Plan Change,Resolved,2026-08-18
+286,276,Billing,Open,2026-09-03
+287,279,Network,Open,2024-03-24
+288,279,Network,Open,2025-07-05
+289,279,Billing,Open,2025-06-17
+290,279,Network,Escalated,2025-05-29
+291,279,Network,Resolved,2025-07-26
+292,280,Service Quality,Resolved,2025-04-18
+293,282,Service Quality,Resolved,2025-12-29
+294,282,Service Quality,Resolved,2025-12-13
+295,282,Network,Resolved,2026-01-20
+296,283,Service Quality,Resolved,2026-07-20
+297,285,Network,Escalated,2026-03-13
+298,286,Billing,Pending,2025-04-29
+299,286,Network,Resolved,2026-02-15
+300,287,Service Quality,Resolved,2026-09-17
+301,289,Service Quality,Escalated,2024-11-30
+302,289,Network,Escalated,2024-12-29
+303,290,Network,Resolved,2026-02-05
+304,291,Technical,Pending,2025-11-03
+305,292,Plan Change,Pending,2026-09-22
+306,292,Technical,Resolved,2026-09-25
+307,293,Service Quality,Resolved,2026-09-26
+308,293,Plan Change,Resolved,2026-07-24
+309,294,Billing,Resolved,2025-05-19
+310,294,Network,Resolved,2026-08-01
+311,295,Billing,Open,2026-01-22
+312,295,Network,Resolved,2025-10-25
+313,297,Billing,Open,2025-10-23
+314,297,Network,Escalated,2026-08-07
+315,297,Technical,Open,2026-05-31
+316,297,Billing,Resolved,2026-02-24
+317,297,Network,Resolved,2025-02-08
+318,298,Billing,Resolved,2026-08-23
+319,298,Technical,Resolved,2024-12-09
+320,300,Technical,Resolved,2024-07-01

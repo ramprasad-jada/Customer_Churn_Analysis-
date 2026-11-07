@@ -1,0 +1,5 @@
+service_id,service_name,service_type
+1,Mobile,Telecom
+2,Broadband,Internet
+3,DTH,Entertainment
+4,OTT Bundle,Entertainment
